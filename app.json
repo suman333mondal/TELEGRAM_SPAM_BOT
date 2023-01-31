@@ -9,9 +9,9 @@
         "deadlySameer",
         "SpamBots"
     ],
-    "repository": "https://t.me/Deadly-Fighters",
-    "website": "https://t.me/Deadly-Fighters",
-    "success_url": "https://t.me/deadly-fighters",
+    "repository": "https://t.me/Online_Hacking",
+    "website": "https://t.me/onlinehacking",
+    "success_url": "https://t.me/onlinehacking",
     "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
