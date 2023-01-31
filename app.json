@@ -84,7 +84,7 @@
         "required": true
       },
        "DATABASE_URL": {
-            "description": "postgres database url",
+            "description": "mongodb+srv://suman333mondal:suman333mondal@cluster0.3g7srr5.mongodb.net/?retryWrites=true&w=majority",
             "value": "",
             "required": true
         },
